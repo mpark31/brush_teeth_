@@ -10,6 +10,7 @@
 8. put your toothbrush on your bottom left teeth
 9. do module "move" 3 times
 10. finish
+11. start again
 
 create a module name "move" {
 
